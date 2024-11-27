@@ -11,6 +11,7 @@ This is a simple game application on Telegram, built with ReactJS. The game has 
   - [Introduction](#introduction)
   - [Installation 🛠️](#installation-️)
   - [Configuration 🌐](#configuration-)
+  - [Important!](#important)
   - [Start 🌈](#start-)
   - [Features 🔥](#features-)
   - [Dependencies 🚩](#dependencies-)
@@ -50,6 +51,10 @@ Before running the app, make sure to set up the required environment variables. 
 > VITE_BACKEND_URL
 > VITE_BOT_TOKEN
 > VITE_REFERRAL_LINK
+
+## Important!
+
+Before running the front-end, please make sure to run the backend server first. You can find the repository backend server at [this link](https://github.com/Kidkender/tma-backend).
 
 ## Start 🌈
 
